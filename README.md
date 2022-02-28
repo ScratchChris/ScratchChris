@@ -14,9 +14,6 @@ My name is Chris Turner and I'm an iOS Developer based in the UK.
 
 - 🔭 I’m currently working on a shopping list app for iOS that rearranges items automatically when you shop to make it quicker to find the things you need, and also  helps familys with budgeting.
 
-
-<img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" />
-
 ---
 
 ### Send me a message!
