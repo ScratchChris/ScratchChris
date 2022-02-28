@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ...
 
-<img src="https://img.shields.io/badge/Swift-F05138?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=ShieldStyle" />
 
 <!--
 **ScratchChris/ScratchChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
