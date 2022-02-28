@@ -14,6 +14,15 @@ My name is Chris Turner and I'm an iOS Developer based in the UK.
 
 - 🔭 I’m currently working on a shopping list app for iOS that rearranges items automatically when you shop to make it quicker to find the things you need, and also  helps families with budgeting.
 
+Challenges Overcome whilst building the app :
+- SwiftUI Lists and Forms.
+- SwiftUI Navigation (both programatically and via navigation links.)
+- Tab Bar creation.
+- Basics of Core Data and fetch requests across multiple views.
+- Core Data deletion and manipulation.
+- Loading mutating data as a view initialises to ensure data is live and valid.
+- Data re-ordering based on items purchased before and after.
+
 ---
 
 ### Send me a message!
