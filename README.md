@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to my GitHub page 👋
+
+My name is Chris Turner and I'm an iOS Developer based in the UK.  I'm learning iOS alongside my day job and family life.
+
+---
+
+### What do I do?
 
 🌱 I’m currently learning ...
 
