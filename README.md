@@ -10,7 +10,7 @@ My name is Chris Turner and I'm an iOS Developer based in the UK.
 
 - 🌱 I’m currently learning SwiftUI and iOS development using the excellent tutorials found on Hacking with Swift.  I am balancing learning this with a full time job within the Public Sector and being a parent to two little kids.
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+https://progress-bar.dev/<50>?title=<100 Days of SwiftUI> Example
 
 - 🔭 I’m currently working on a shopping list app for iOS that rearranges items automatically when you shop to make it quicker to find the things you need, and also  helps familys with budgeting.
 
