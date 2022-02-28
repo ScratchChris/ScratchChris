@@ -8,14 +8,21 @@ My name is Chris Turner and I'm an iOS Developer based in the UK.
 
 <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" />
 
-🌱 I’m currently learning SwiftUI and iOS development using the excellent tutorials found on Hacking with Swift.  I am balancing learning this with a full time job within the Public Sector and being a parent to two little kids.
+- 🌱 I’m currently learning SwiftUI and iOS development using the excellent tutorials found on Hacking with Swift.  I am balancing learning this with a full time job within the Public Sector and being a parent to two little kids.
 
-🔭 I’m currently working on a shopping list app for iOS that rearranges items automatically when you shop to make it quicker to find the things you need, and also  helps familys with budgeting.
+
+
+- 🔭 I’m currently working on a shopping list app for iOS that rearranges items automatically when you shop to make it quicker to find the things you need, and also  helps familys with budgeting.
 
 
 <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" />
 
 ---
+
+### Send me a message!
+
+
+### GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ScratchChris)
 
